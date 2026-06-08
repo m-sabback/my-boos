@@ -1,0 +1,9 @@
+lskahdf'
+sdjfha
+'sdjfhasdfjh
+asdflha
+sdjfha
+
+git reset
+=========
+git revert
